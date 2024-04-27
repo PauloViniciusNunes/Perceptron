@@ -1,0 +1,14 @@
+/home/paulov/Desktop/Projetos/Perceptron/bin/Debug/net8.0/Perceptron
+/home/paulov/Desktop/Projetos/Perceptron/bin/Debug/net8.0/Perceptron.deps.json
+/home/paulov/Desktop/Projetos/Perceptron/bin/Debug/net8.0/Perceptron.runtimeconfig.json
+/home/paulov/Desktop/Projetos/Perceptron/bin/Debug/net8.0/Perceptron.dll
+/home/paulov/Desktop/Projetos/Perceptron/bin/Debug/net8.0/Perceptron.pdb
+/home/paulov/Desktop/Projetos/Perceptron/obj/Debug/net8.0/Perceptron.GeneratedMSBuildEditorConfig.editorconfig
+/home/paulov/Desktop/Projetos/Perceptron/obj/Debug/net8.0/Perceptron.AssemblyInfoInputs.cache
+/home/paulov/Desktop/Projetos/Perceptron/obj/Debug/net8.0/Perceptron.AssemblyInfo.cs
+/home/paulov/Desktop/Projetos/Perceptron/obj/Debug/net8.0/Perceptron.csproj.CoreCompileInputs.cache
+/home/paulov/Desktop/Projetos/Perceptron/obj/Debug/net8.0/Perceptron.dll
+/home/paulov/Desktop/Projetos/Perceptron/obj/Debug/net8.0/refint/Perceptron.dll
+/home/paulov/Desktop/Projetos/Perceptron/obj/Debug/net8.0/Perceptron.pdb
+/home/paulov/Desktop/Projetos/Perceptron/obj/Debug/net8.0/Perceptron.genruntimeconfig.cache
+/home/paulov/Desktop/Projetos/Perceptron/obj/Debug/net8.0/ref/Perceptron.dll
